@@ -1,9 +1,4 @@
 
-pandas==1.3.3
-streamlit==1.10.0
-scikit-learn==0.24.2
-plotly==4.14.3
-
 import pandas as pd
 import streamlit as st
 from sklearn.model_selection import train_test_split

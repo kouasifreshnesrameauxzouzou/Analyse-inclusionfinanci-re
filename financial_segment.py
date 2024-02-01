@@ -1,4 +1,4 @@
-pip install -r requirements.txt
+
 pandas==1.3.3
 streamlit==1.10.0
 scikit-learn==0.24.2
